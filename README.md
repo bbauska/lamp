@@ -47,12 +47,12 @@ If you have installed the above components, you can skip this part and move to t
   - Export PostgreSQL Table Data as JSON
 
 ### You might also like...
-  - How to convert XML to JSON in Node.js
-  - How to send JSON request using XMLHttpRequest (XHR)
-  - How to read JSON from a file using Gson in Java
-  - How to write JSON to a file using Gson in Java
-  - Read and write JSON as a stream using Gson
-  - How to pretty print JSON using Gson in Java
+  1 How to convert XML to JSON in Node.js
+  2 How to send JSON request using XMLHttpRequest (XHR)
+  3 How to read JSON from a file using Gson in Java
+  4 How to write JSON to a file using Gson in Java
+  5 Read and write JSON as a stream using Gson
+  6 How to pretty print JSON using Gson in Java
 
 
 
