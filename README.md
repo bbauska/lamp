@@ -46,5 +46,14 @@ If you have installed the above components, you can skip this part and move to t
   - Processing JSON Data in Spring Boot
   - Export PostgreSQL Table Data as JSON
 
+### You might also like...
+  - How to convert XML to JSON in Node.js
+  - How to send JSON request using XMLHttpRequest (XHR)
+  - How to read JSON from a file using Gson in Java
+  - How to write JSON to a file using Gson in Java
+  - Read and write JSON as a stream using Gson
+  - How to pretty print JSON using Gson in Java
+
+
 
 
