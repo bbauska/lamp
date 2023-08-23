@@ -26,3 +26,12 @@ If you have installed the above components, you can skip this part and move to t
 #### In a nutshell, JSON is lightweight, human-readable, and needs less formatting, which makes it a good alternative to XML.
 
 ### JSON vs XML
+
+### JSON Resources
+#### There are many useful resources available online for free to learn and work with JSON:
+
+Introducing JSON — Learn the JSON language supported features.
+  - JSONLint — A JSON validator that you can use to verify if the JSON string is valid.
+  - JSON.dev — A little tool for viewing, parsing, validating, minifying, and formatting JSON.
+  - JSON Schema — Annotate and validate JSON documents according to your own specific format.
+
