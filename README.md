@@ -54,6 +54,20 @@ If you have installed the above components, you can skip this part and move to t
   5 Read and write JSON as a stream using Gson
   6 How to pretty print JSON using Gson in Java
 
+### How to make HTTP requests in Node.js
+
+### IN THIS ARTICLE 👇
+Make HTTP requests using Axios
+Make HTTP requests using standard HTTP(S) module
+Make HTTP requests using Got
+Make HTTP requests using Node-Fetch
+Make HTTP requests using Needle
+Make HTTP requests using SuperAgent
+Make HTTP requests using Request module
+There are many ways to make HTTP requests in Node.js. You can use either the standard HTTP/HTTPS module or one of the NPM packages like Axios, Needle, Got, SuperAgent, and node-fetch.
+
+Before we dive into code and description, make sure that you have installed the latest LTS versions of Node.js and npm on your machine.
+
 
 
 
