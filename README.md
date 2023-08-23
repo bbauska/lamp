@@ -18,3 +18,9 @@ If you have installed the above components, you can skip this part and move to t
   2. Apache,
   3. MySQL and
   4. PHP 
+
+## JSON — short for JavaScript Object Notation — is a popular format for storing and exchanging data. As the name suggests, JSON is derived from JavaScript but later embraced by other programming languages.
+
+### JSON file ends with a .json extension but not compulsory to store the JSON data in a file. You can define a JSON object or an array in JavaScript or HTML files.
+
+#### In a nutshell, JSON is lightweight, human-readable, and needs less formatting, which makes it a good alternative to XML.
