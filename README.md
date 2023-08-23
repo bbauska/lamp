@@ -66,9 +66,16 @@ Make HTTP requests using Node-Fetch
 Make HTTP requests using Needle
 Make HTTP requests using SuperAgent
 Make HTTP requests using Request module
+
+
 There are many ways to make HTTP requests in Node.js. You can use either the standard HTTP/HTTPS module or one of the NPM packages like Axios, Needle, Got, SuperAgent, and node-fetch.
 
 Before we dive into code and description, make sure that you have installed the latest LTS versions of Node.js and npm on your machine.
+
+Yarn is a package manager developed by Facebook as an alternative to the NPM client. It allows teams to develop JavaScript code and share it through software packages.
+
+Yarn brings a host of improvements compared to NPM, such as higher speed, reliability, and greater compatibility. There are several methods of installing Yarn, from using the MSI installation file to using other package managers and installing it from the Windows PowerShell.
+
 
 
 
