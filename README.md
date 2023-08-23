@@ -30,8 +30,21 @@ If you have installed the above components, you can skip this part and move to t
 ### JSON Resources
 #### There are many useful resources available online for free to learn and work with JSON:
 
-Introducing JSON — Learn the JSON language supported features.
+##### Introducing JSON — Learn the JSON language supported features.
   - JSONLint — A JSON validator that you can use to verify if the JSON string is valid.
   - JSON.dev — A little tool for viewing, parsing, validating, minifying, and formatting JSON.
   - JSON Schema — Annotate and validate JSON documents according to your own specific format.
+
+### Further Reading
+#### A few more articles related to JSON that you might be interested in:
+
+  - How to read and write JSON files in Node.js
+  - Reading and Writing JSON Files in Java
+  - How to read and write JSON using Jackson in Java
+  - How to read and write JSON using JSON.simple in Java
+  - Understanding JSON.parse() and JSON.stringify()
+  - Processing JSON Data in Spring Boot
+  - Export PostgreSQL Table Data as JSON
+
+
 
