@@ -76,7 +76,8 @@ Yarn is a package manager developed by Facebook as an alternative to the NPM cli
 
 Yarn brings a host of improvements compared to NPM, such as higher speed, reliability, and greater compatibility. There are several methods of installing Yarn, from using the MSI installation file to using other package managers and installing it from the Windows PowerShell.
 
-
+## LAMP using YARN
+https://phoenixnap.com/kb/yarn-windows
 
 
 
